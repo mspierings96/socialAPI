@@ -1,0 +1,23 @@
+{
+  "name": "socialapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mspierings96/socialAPI.git"
+  },
+  "author": "Mitchell Spierings",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mspierings96/socialAPI/issues"
+  },
+  "homepage": "https://github.com/mspierings96/socialAPI#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.13.3"
+  }
+}
